@@ -1,0 +1,24 @@
+{
+    "name": "Binance ",
+    "type": "BEP2",
+    "symbol": "Susan prieto",
+    "decimals": 25,
+    "website": "https://; Walmart",
+    "description": "Good and service ",
+    "explorer": "https://bscscan.com/token/bnb1u2agwjat20494fmc6jnuau0ls937cfjn4pjwtn",
+    "status": "active",
+    "id": "bnb1u2agwjat20494fmc6jnuau0ls937cfjn4pjwtn",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        }
+    ],
+    "tags": [
+        "bnb1u2agwjat20494fmc6jnuau0ls937cfjn4pjwtn"
+    ]
+}
